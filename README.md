@@ -14,7 +14,7 @@
  
  
 <div> 
-  <a href="https://www.linkedin.com/in/lorfs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lorena-ferreira-de-souza-4006b8229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/lorfs/lorfs/blob/output/github-contribution-grid-snake.svg)
 
